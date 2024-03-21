@@ -5,7 +5,8 @@ Lab 1 Robotica
 
 
 # Diagrama de flujo de las acciones del robot
-[Diagrama flujo robotica.pdf](https://github.com/JoyS06/Lab1-Robotica/files/14681463/Diagrama.flujo.robotica.pdf)
+
+![Diagrama flujo robotica](https://github.com/JoyS06/Lab1-Robotica/assets/66972115/b9d702f2-e575-4852-b66c-6cde12a1057f)
 
 
 # Descripción de las funciones utilizadas

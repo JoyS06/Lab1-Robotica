@@ -41,4 +41,18 @@ El PROC Path_20() define un procedimiento que usa el comando MoveJ para mover el
 
 El PROC Path_30() es similar pero lleva al robot de vuelta a la posición "home". 
 
+# Dibujo inclinado con robot ABB 
+
+Dibujo con el robot fisico: https://www.youtube.com/watch?v=mab4iMSGkUU
+
+Entradas y salidas digitales: https://youtu.be/8X4bTrhIlWE?feature=shared
+
+Simulacion: https://www.youtube.com/watch?v=ifNBjNAZaoc
+
+# Dibujo horizontal con robot ABB
+
+Dibujo con el robot fisico con entradas y salidas digitales https://youtu.be/JHbbnv5C7v0?feature=shared
+
+Simulacion: https://www.youtube.com/watch?v=wB2ium5T5FU
+
 

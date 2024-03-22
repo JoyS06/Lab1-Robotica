@@ -4,6 +4,10 @@ Lab 1 Robotica
 # Descripción de la solución planteada
 
 
+Para abordar esta tarea, se debe iniciar un nuevo proyecto seleccionando un robot modelo IRB140_6_81, el mismo modelo que se dispone en el laboratorio. Se optó por utilizar un controlador virtual versión 6.15.03 Build 3019. Luego, se debe configurar un objeto de trabajo, que en este caso es un pastel, situándolo entre el tercer y cuarto cuadrante en relación con el sistema de coordenadas.
+
+![Sup incl](https://github.com/JoyS06/Lab1-Robotica/assets/105253521/285edf05-294e-4022-b519-ac2c7c40bb90)
+
 # Diagrama de flujo de las acciones del robot
 
 ![Diagrama flujo robotica](https://github.com/JoyS06/Lab1-Robotica/assets/66972115/b9d702f2-e575-4852-b66c-6cde12a1057f)

@@ -8,6 +8,15 @@ Para abordar esta tarea, se debe iniciar un nuevo proyecto seleccionando un robo
 
 ![Sup incl](https://github.com/JoyS06/Lab1-Robotica/assets/105253521/285edf05-294e-4022-b519-ac2c7c40bb90)
 
+Para realizar las trayectorias primero se realizó en inventor el modelo de las letras a escribir.
+
+![image](https://github.com/JoyS06/Lab1-Robotica/assets/105253521/fd917d84-107b-4361-9335-05485ae88c02)
+
+El modelo se integró en RobotStudio, donde se estableció el sistema de coordenadas alineado con la orientación de la herramienta. A continuación, se procedió a marcar los puntos a lo largo del contorno de las letras y los puntos más altos para facilitar el cambio entre letras. Una vez hecho esto, se generaron las trayectorias a una velocidad predeterminada de 100. Inicialmente, se emplearon comandos de movimiento lineal (moveL) y todo funcionó sin problemas. No obstante, para adaptarse a la ejecución fue necesario ajustar algunas trayectorias utilizando comandos de movimiento conjunto (moveJ). Es importante destacar que la secuencia programada también incorporó la transición desde la posición inicial o "home" del robot hacia el comienzo de las letras.
+
+![image](https://github.com/JoyS06/Lab1-Robotica/assets/105253521/b875b740-5861-4701-bc05-c73c81540c43)
+
+
 # Diagrama de flujo de las acciones del robot
 
 ![Diagrama flujo robotica](https://github.com/JoyS06/Lab1-Robotica/assets/66972115/b9d702f2-e575-4852-b66c-6cde12a1057f)

@@ -1,6 +1,11 @@
 # Lab1-Robotica
 Lab 1 Robotica
 
+# Integrantes 
+
+Joyner Stiven Caballero Abril 
+Juan Felipe Triana 
+
 # Descripción de la solución planteada
 
 Para abordar esta tarea, se debe iniciar un nuevo proyecto seleccionando un robot modelo IRB140_6_81, el mismo modelo que se dispone en el laboratorio. Se optó por utilizar un controlador virtual versión 6.15.03 Build 3019. Luego, se debe configurar un objeto de trabajo, situándolo entre el tercer y cuarto cuadrante en relación con el sistema de coordenadas.

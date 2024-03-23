@@ -4,6 +4,7 @@ Lab 1 Robotica
 # Integrantes 
 
 Joyner Stiven Caballero Abril 
+
 Juan Felipe Triana 
 
 # Descripción de la solución planteada

@@ -41,6 +41,14 @@ El PROC Path_20() define un procedimiento que usa el comando MoveJ para mover el
 
 El PROC Path_30() es similar pero lleva al robot de vuelta a la posición "home". 
 
+# Conclusiones
+
+El laboratorio permitió experimentar con la calibración de herramientas y la definición de sistemas de coordenadas, lo cual es vital para la precisión en las operaciones de robótica. Las actividades prácticas implicaron la programación de trayectorias para realizar tareas de marcado en superficies planas, lo que requería una comprensión clara de las instrucciones de movimiento como MoveL y MoveJ, y cómo estas se aplican en un espacio de trabajo tridimensional.
+
+Se aplico teoría y práctica en el manejo de señales de entrada y salida digitales para controlar secuencias de operaciones, un aspecto fundamental de la automatización en robótica industrial. La importancia de las señales digitales quedó demostrada en la capacidad de iniciar y detener rutinas de movimiento y en la integración de estas señales dentro del flujo de trabajo del robot.
+
+Además, la adaptabilidad del robot a diferentes escenarios de trabajo fue explorada, como se evidencia en la transición de movimientos en superficies planas a planos inclinados. Esta adaptabilidad es crucial en entornos industriales donde los robots deben ser capaces de manejar una variedad de tareas bajo diferentes condiciones operativas.
+
 # Dibujo inclinado con robot ABB 
 
 Dibujo con el robot fisico: https://www.youtube.com/watch?v=mab4iMSGkUU
